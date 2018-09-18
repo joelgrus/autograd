@@ -1,3 +1,6 @@
 * [code for part 1](https://github.com/joelgrus/autograd/tree/part01)
 * [code for part 2](https://github.com/joelgrus/autograd/tree/part02)
 * [code for part 3](https://github.com/joelgrus/autograd/tree/part03)
+* [code for part 4](https://github.com/joelgrus/autograd/tree/part04)
+* [code for part 5](https://github.com/joelgrus/autograd/tree/part05)
+* [code for part 6](https://github.com/joelgrus/autograd/tree/part06)
